@@ -13,7 +13,7 @@
 </head>
 <body>
     <h1>Avaliação SOCPS II</h1>
-    <h2>Henrique Olivo Antonio</h2>
+    <h2>Andre Mayer Tomazoni</h2>
     <h2> <?php echo $date ?> </h2>
 </body>
 </html>
